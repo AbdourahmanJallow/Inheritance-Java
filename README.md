@@ -1,2 +1,2 @@
 # Inheritance-Java
-Inheritance in java
+Inheritance made easy in java.
